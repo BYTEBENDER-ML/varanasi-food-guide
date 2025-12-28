@@ -48,7 +48,10 @@ varanasi-food-guide/
 
 ## 🎨 Screenshots
 
-[Add screenshots here after deployment]
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/472e4a31-a3a0-45cb-ab79-b92f6be7f890" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2219c7f-1f3f-4aaf-9859-7d51001ab5ea" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11994a6a-41ab-4114-9bc5-659fbb2af7ea" />
+
 
 ## 🌟 Local Guide Features
 
